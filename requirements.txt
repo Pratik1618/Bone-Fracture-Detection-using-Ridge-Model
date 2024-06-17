@@ -1,0 +1,4 @@
+opencv-python
+sklearn nhi chalta hai isliye scikit learn install karna
+pillow
+matplotlib bhi install karna
